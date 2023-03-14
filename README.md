@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Rei</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrorrei&label=Profile%20views&color=0e75b6&style=flat" alt="pedrorrei" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrorrei" alt="pedrorrei" /></a> </p>
-
 - 📫 How to reach me **pedrorrei@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +14,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrorrei&show_icons=true&locale=en&layout=compact" alt="pedrorrei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorrei&" alt="pedrorrei" /></p>
-
